@@ -1,0 +1,84 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body{
+
+}
+.container {
+  border: 2px solid black;
+  width: 500px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: rgba(12, 12, 12, 0.717);
+  border: none;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px 3px gray;
+}
+.contant {
+display: flex;
+margin-left: 70px;
+margin-bottom: 30px;
+}
+.demo-btn {
+  width: 150px;
+  height: 30px;
+  border: none;
+  color: white;
+  background-color: rgb(73, 241, 76);
+  
+}
+.demo-btn2 {
+width: 150px;
+border: none;
+background-color: transparent;
+border: 1px solid rgb(132, 132, 132);
+color: rgb(132, 132, 132);
+}
+.demo-inp{
+height: 30px;
+padding: 15px;
+background-color: transparent;
+border: 1px solid rgb(132, 132, 132);
+color: rgb(132, 132, 132);
+}
+
+.heading {
+text-align: center;
+margin-bottom: 30px;
+color: white;
+font-weight: 500;
+}
+.demo-label {
+display: flex;
+gap: 50px;
+margin-bottom: 30px;
+}
+.demo-form {
+
+}
+.demo-label2 {
+
+}
+.demo-form2 {
+
+}
+.demo-input {
+  padding: 20px;
+width: 440px;
+margin-bottom: 30px;
+height: 30px;
+background-color: transparent;
+border: 1px solid rgb(132, 132, 132);
+color: rgb(132, 132, 132);
+}
+.demo-btn3 {
+width: 440px;
+height: 50px;
+color: white;
+background-color: rgb(77, 216, 70);
+font-size: 20px;
+border: none;
+}
